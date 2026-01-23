@@ -1,0 +1,7 @@
+# SHA-256 Hashes for Forensic Evidence
+
+File: sanitized_evidence.pcap
+Hash: 34ac8a9b266a6f6a4d40e439f5f0e1e0df69e754a819272c3d035a776c6df0c9
+
+File: sanitized_evidence.zip 
+Hash: 81d536b5e981ee708dbfd04349bc96a49bcab68329b05c74d969dd89356d4ec0
