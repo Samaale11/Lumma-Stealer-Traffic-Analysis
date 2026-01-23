@@ -19,7 +19,7 @@ I conducted this analysis using a structured forensic methodology to maintain da
 ## 1. Discovery & Scoping
 Statistical analysis identified a major outlier: host `160.9.3.101` exchanged **28 MB** of data with a single external endpoint.
 
-![Traffic Outlier] (screenshots/1 traffic_volume_outlier.png)
+![Traffic Outlier] (screenshots/1_traffic_volume_outlier.png)
 *Figure 1: Identifying the primary threat actor via high-volume IPv4 conversations.*
 
 ![Protocol Hierarchy](screenshots/2_protocol_distribution.png)
