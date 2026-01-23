@@ -90,4 +90,4 @@ Cross-referencing this hash with VirusTotal provided objective, third-party conf
 | **SHA-256 Hash** | `e2c0390d80410e4358435c10cfc3d27b788d2299daa9d052d9c16526ee4635ad` |
 | **User-Agent** | `WindowsPowerShell/5.1` |
 
-[Download Full Forensic Incident Report (PDF)](./reports/Lumma_Stealer_Report.pdf)
+[Download Full Forensic Incident Report (PDF)](./reports/Analysis of Lumma Stealer Infection.pdf)
